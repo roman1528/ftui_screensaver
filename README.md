@@ -10,9 +10,9 @@
 </div>
 ```
 
-Wenn ihr, so wie ich, mit PageTab arbeitet reicht es wenn ihr dieses <div> nur auf der ersten Seite (wahrscheinlich index.html) irgendwo unten vor </body> einfügt. Der Screensaver ist dann auf allen Unterseiten gleich.
+Wenn ihr, so wie ich, mit PageTab arbeitet reicht es wenn ihr dieses div nur auf der ersten Seite (wahrscheinlich index.html) irgendwo unten vor </body> einfügt. Der Screensaver ist dann auf allen Unterseiten gleich.
 
-Wenn ihr einzelne Seiten verwendet muss dieses <div> auf jeder Seite irgendwo unten vor </body> eingefügt werden. So kann man natürlich auf jeder einzelnen Seite einen eigenen Screensaver-Inhalt bauen.
+Wenn ihr einzelne Seiten verwendet muss dieses div auf jeder Seite irgendwo unten vor </body> eingefügt werden. So kann man natürlich auf jeder einzelnen Seite einen eigenen Screensaver-Inhalt bauen.
 
 data-timeout="60" // Timeout in Sekunden bis zur (Re)Aktivierung. 60 ist der Standardwert.
 
