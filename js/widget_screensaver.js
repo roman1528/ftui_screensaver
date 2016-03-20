@@ -2,6 +2,8 @@
 if(typeof widget_widget == 'undefined') {
     loadplugin('widget_widget');
 }
+
+$('head').append('<link rel="stylesheet" href="'+ dir + '/../lib/jquery.screensaver.css" type="text/css" />');
 	
 // widget implementation starts here
 // change 'widget_example' to 'widget_mywidgetname'
